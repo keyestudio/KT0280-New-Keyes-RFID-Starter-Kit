@@ -1,18 +1,16 @@
-# KT0280 Keyes New RFID Starter Kit
-
- ![](media/8c0d84819364932ba97e32d40fe0b580.jpeg)
+![](media/8c0d84819364932ba97e32d40fe0b580.jpeg)
 
  
- 
+
 **Before starting the projects, please click the link to download the code, library files, and PDF tutorial.**
 
 <https://raw.githubusercontent.com/keyestudio/KT0280-New-Keyes-RFID-Starter-Kit/refs/heads/main/tutorial.rar>
 
-## 1.Introduction
+# 1.Introduction
 
 Keyes RFID Starter Kit is an Arduino-compatible development kit designed for beginners and electronics enthusiasts. This kit contains multiple sensors and modules to help you get started quickly and practice a variety of basic and intermediate electronics projects.
 
-## 2.Features
+# 2.Features
 
 1\. **User-Friendliness**: Arduino is popular for its simplicity and ease of use, allowing users to get started without needing advanced programming or electronic expertise.
 
@@ -24,7 +22,7 @@ Keyes RFID Starter Kit is an Arduino-compatible development kit designed for beg
 
 5\. **Expandability**: Beyond the basic projects in the tutorials, users can explore and develop more advanced applications based on personal interests. This flexibility significantly enhances the kit's practical value.
 
-## 3.Component List
+# 3.Component List
 
 |  ![](media/1107089c80b08f95356303d327f896db.png)                                                                                                   | ![](media/5a1d3dbf0c5daf6136044b828a777acd.png) | ![](media/cddded49c863ef913bbe2ef3832da74b.png) | ![](media/679ad0aaef0b7b199aaf0967e1aa5367.png) | ![](media/0eead4be7850896afc83477bd7c260d8.png)   |
 |----------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|--------------------------------------------------------------------------|-------------------------------------------------------------------------|---------------------------------------------------|
@@ -48,7 +46,7 @@ Keyes RFID Starter Kit is an Arduino-compatible development kit designed for beg
 |  ![](media/7e71ea42b148dc784d980b5bf2990987.png)                                                                                                   | ![](media/7cfc5250d3571f850a68d658472b89cc.png)                         | ![](media/9c66fe9cacaa451b9f2b8c019a897efc.png)                          | ![](media/be5eb05b64a6693a122880fa0fb4f622.png)                         | ![](media/3cf12a09749be4e06c4e1816421259d1.png)   |
 | Type c USB Cable\*1                                                                                                                                | Resistor card                                                           | 9v Battery holderr\*1                                                    | RFID Card\*1                                                            | RFID Key\*1                                       |
 
-## 4.Getting started with Arduino
+# 4.Getting started with Arduino
 
 **WHAT IS ARDUINO?**
 
@@ -403,7 +401,6 @@ Click ![IMG_262](media/84d060e66fbd48b08d74dc6a84c1785e.png)and set baud rate to
 This is the end of how to upload code!
 
 Now please import libraries for IDE, otherwise an error will occur.
-
 
 
 
